@@ -1,0 +1,10 @@
+= ADR 4: Use GitHub Actions for continuous integration and delivery
+Mark Ayers <mark@philoserf.com>
+
+== Status
+
+== Context
+
+== Decision 
+
+== Consequences
