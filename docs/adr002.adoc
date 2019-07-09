@@ -1,4 +1,4 @@
-= ADR 1: Use asciidoctor/adoc for document mark up
+= ADR 2: Use asciidoctor/adoc for document mark up
 Mark Ayers <mark@philoserf.com>
 
 == Status
