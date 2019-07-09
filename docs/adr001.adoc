@@ -1,0 +1,11 @@
+= ADR 1: Record decisions with lightweight architectural decision records
+Mark Ayers <mark@philoserf.com>
+
+== Status
+
+== Context
+
+== Decision 
+
+== Consequences
+
