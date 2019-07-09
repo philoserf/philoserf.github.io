@@ -1,0 +1,10 @@
+= ADR 3: Use make/Makefile for local automation
+Mark Ayers <mark@philoserf.com>
+
+== Status
+
+== Context
+
+== Decision 
+
+== Consequences
