@@ -4,14 +4,14 @@ Also found at <https://philoserf.com>
 
 ### Projects
 
-- <https://philoserf.github.io/newcastle>
 - <https://philoserf.github.io/actions>
+- <https://philoserf.github.io/dotfiles>
 - <https://philoserf.github.io/go>
-- <https://philoserf.github.io/tap>
-- <https://philoserf.github.io/project>
 - <https://philoserf.github.io/iA4>
-- <https://philoserf.github.io/wp-sync>
+- <https://philoserf.github.io/project>
 - <https://philoserf.github.io/shuttle>
+- <https://philoserf.github.io/tap>
+- <https://philoserf.github.io/wp-sync>
 
 ### About
 
