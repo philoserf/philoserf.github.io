@@ -21,6 +21,8 @@ Mark is a human being, being human. He lives in <s>Edmonds, a small town in Wash
 
 Mark works on improving technological systems, services, and processes for a leading fashion retailer in Seattle, USA. In the past he has worked for Samsung’s Cloud Native Computing Team; wrote and supported APIs for Nordstrom mobile applications; supported ESPN.com for The Walt Disney Company; supported information systems and information security for dental and medical insurance companies; served as both an enlisted airborne infantryman and a U.S. Army officer; and held a few more less noteworthy positions too.
 
+Mark served four years on the board of his local public library, including one year as its president. He served five years on the advisory board of a regional writers’ conference where he helped to recruit, select, and schedule presenters and keynote speakers. He has also served as an officer on the executive committee of a few volunteer nonprofit organizations.
+
 _The views expressed here are his own. They are not endorsed, approved, or reviewed by any other person or organization._
 
 #### Contact Information
