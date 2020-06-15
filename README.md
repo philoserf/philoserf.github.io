@@ -17,7 +17,7 @@ Also found at <https://philoserf.com>
 
 #### github: [@philoserf][1] | email: <mark@philoserf.com>
 
-Mark is a human being, being human. He lives in Edmonds<s>, a small town in Washington State -- United States of America. His home provides the advantages of a great city and a small coastal village in a region nestled between mountain ranges, divided by the Salish Sea, and a series of freshwater lakes and rivers.</s> a small town near Grand Rapids Michigan. Mark lived in Italy for a year in the early 1980s and Turkey for a year in the early 1990s. He earned a degree in political science at The University at Albany, State University of New York.
+Mark is a human being, being human. He lives in <s>Edmonds, a small town in Washington State -- United States of America. His home provides the advantages of a great city and a small coastal village in a region nestled between mountain ranges, divided by the Salish Sea, and a series of freshwater lakes and rivers.</s> a small town near Grand Rapids Michigan. Mark lived in Italy for a year in the early 1980s and Turkey for a year in the early 1990s. He earned a degree in political science at The University at Albany, State University of New York.
 
 Mark works on improving technological systems, services, and processes for a leading fashion retailer in Seattle, USA. In the past he has worked for Samsung’s Cloud Native Computing Team; wrote and supported APIs for Nordstrom mobile applications; supported ESPN.com for The Walt Disney Company; supported information systems and information security for dental and medical insurance companies; served as both an enlisted airborne infantryman and a U.S. Army officer; and held a few more less noteworthy positions too.
 
