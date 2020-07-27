@@ -1,0 +1,10 @@
+name: happy-new-year
+on:
+  schedule:
+    - cron: '0 0 1 1 *'
+jobs:
+  happy-new-year:
+    runs-on: ubuntu-latest
+    steps:
+    - name: throw error
+      run: exit 1
