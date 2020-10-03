@@ -17,11 +17,11 @@ Also found at <https://philoserf.com>
 
 #### github: [@philoserf][1] | email: <mark@philoserf.com>
 
-Mark is a human being, being human. He lives in  a small town near Grand Rapids Michigan. Mark lived in Italy for a year in the early 1980s and Turkey for a year in the early 1990s. He earned a degree in political science at The University at Albany, State University of New York.
+Mark is a human being, being human. He lives in Rockford, Michigan. He has lived in Jamestown, New York; Lilburn, Georgia; Dublin, Ohio; Edmonds, Washington; and a few U.S. Army bases. Mark lived in Italy for a year in the early 1980s and Turkey for a year in the early 1990s. He earned a degree in political science at The University at Albany, State University of New York.
 
-Mark works on improving technological systems, services, and processes for a leading fashion retailer in Seattle, USA. In the past he has worked for Samsung’s Cloud Native Computing Team; wrote and supported APIs for Nordstrom mobile applications; supported ESPN.com for The Walt Disney Company; supported information systems and information security for dental and medical insurance companies; served as both an enlisted airborne infantryman and a U.S. Army officer; and held a few more less noteworthy positions too.
+Mark works on improving technological systems, services, and processes for Subsplash and its Ultimate Engagement Platform, supporting churches and ministries. He worked for Nordstrom writing application programming interfaces for mobile applications and as a site reliability engineer; he did researched and developed on the Kubernetes platform for Samsung’s Cloud Native Computing Team; he supported ESPN.com for The Walt Disney Company, and supported information systems and information security for dental and medical insurance companies. He served as both an enlisted airborne infantryman and a U.S. Army officer.
 
-Mark served four years on the board of his local public library, including one year as its president. He served five years on the advisory board of a regional writers’ conference where he helped to recruit, select, and schedule presenters and keynote speakers. He has also served as an officer on the executive committee of a few volunteer nonprofit organizations.
+Mark served four years on his local public library board, including one year as its president. He served five years on the advisory board of a regional writers’ conference to recruit, select, and schedule presenters and keynote speakers. He has also served as an officer on the executive committee of a few volunteer nonprofit organizations.
 
 _The views expressed here are his own. They are not endorsed, approved, or reviewed by any other person or organization._
 
