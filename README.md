@@ -1,16 +1,22 @@
 ## The GitHub home of Mark Ayers, a philosopher serf
 
-Also found at <https://philoserf.com>
+Also find me at <https://philoserf.com>
 
 ### Projects
 
 - <https://philoserf.github.io/actions>
 - <https://philoserf.github.io/dotfiles>
 - <https://philoserf.github.io/go>
+- <https://philoserf.github.io/homebrew-tap>
 - <https://philoserf.github.io/iA4>
+- <https://philoserf.github.io/iac>
+- <https://philoserf.github.io/philoserf>
+- <https://philoserf.github.io/philoserf.github.io>
 - <https://philoserf.github.io/project>
 - <https://philoserf.github.io/shuttle>
-- <https://philoserf.github.io/tap>
+- <https://philoserf.github.io/t1>
+- <https://philoserf.github.io/t2>
+- <https://philoserf.github.io/up>
 - <https://philoserf.github.io/wp-sync>
 
 ### About
