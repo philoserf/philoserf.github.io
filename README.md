@@ -43,4 +43,9 @@ mark@philoserf.com
 + 1.206.280.4061
 ```
 
+<hr>
+| [home](https://philoserf.github.io/) | [philoserf.com](https://philoserf.com/) |
+
+<!-- ref-->
+
 [1]: https://github.com/philoserf
