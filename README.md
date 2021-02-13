@@ -1,4 +1,4 @@
-## The GitHub home of Mark Ayers, a philosopher serf
+## The GitHub home of Mark Ayers—a philosopher serf
 
 Also find me at <https://philoserf.com>
 
