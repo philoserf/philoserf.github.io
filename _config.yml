@@ -1,4 +1,7 @@
-title: Mark Ayers
+title: "Mark Ayers"
+author:
+  name: "Mark"
+  email: "mark@philoserf.com"
 theme: minima
 minima:
   skin: auto
