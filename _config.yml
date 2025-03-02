@@ -1,0 +1,8 @@
+title: Home
+author:
+  name: Mark Ayers
+  email: mark@philoserf.com
+theme: minima
+minima:
+  skin: auto
+  date_format: "%Y-%m-%d"
