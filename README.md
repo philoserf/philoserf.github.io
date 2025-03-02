@@ -1,5 +1,3 @@
-# Mark Ayers
-
 _We are all human beings, being human._
 
 ## Who I Am
@@ -37,7 +35,5 @@ When not solving complex problems, you might find me:
 The simplest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
 
 ---
-
-_This page follows my own rule: one file until you need another._
 
 _The views expressed here are my own. They are not endorsed, approved, or reviewed by any other person or organization._
