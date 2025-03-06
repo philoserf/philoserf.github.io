@@ -32,5 +32,4 @@ When not solving complex problems, you might find me:
 
 The simplest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
 
-
 _The views expressed here are my own. They are not endorsed, approved, or reviewed by any other person or organization._
