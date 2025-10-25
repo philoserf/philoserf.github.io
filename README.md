@@ -1,35 +1,29 @@
-_We are all human beings, being human._
+_Human beings, being human._
 
 ## Philosophy
 
-Yes, and…  
-Name things once.  
-Assume good intentions.  
-Only ask for permission once.  
-Simplicity is hard but essential.  
-Use one file until you need another.  
-Use one folder until you need another.  
-Submit to defaults until you have a strong reason to deviate.
-
-Deeply think, learn constantly, make unexpected connections, and articulate complex ideas with confidence in a strategic vision.
+Yes, and…
+Name things once.
+Assume good intentions.
+Ask permission once, then proceed.
+Embrace necessary simplicity.
+One file until you need another.
+One folder until you need another.
+Default first, deviate deliberately.
+Think deeply. Learn constantly. Connect unexpectedly. Articulate clearly.
 
 ## Who I Am
 
-A former US Army paratrooper and Ranger. I have worked in large and very large corporations, small startups, and middling scale-ups where I specialize in learning new skills.
-
-I hold a Bachelor of Arts in Political Science from the University at Albany and continue learning daily through challenges, conversations, and skill acquisition.
+Former US Army paratrooper and Ranger. I've worked across corporations, startups, and scale-ups, specializing in rapid skill acquisition and problem-solving.
+BA in Political Science, University at Albany. Continuous learner through challenges, conversations, and practice.
 
 ## Beyond Work
 
-When not solving complex problems, you might find me:
-
-- Traversing backcountry trails with everything I need on my back.
-- Exploring far-flung corners of the world.
-- Crafting the perfect balance of flavors in a cocktail glass.
-- Finding rhythm and meaning in spoken word.
+Backpacking remote trails. Exploring distant places. Crafting cocktails. Performing spoken word.
 
 ## Connect
 
-The simplest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
+[mark@philoserf.com](mailto:mark@philoserf.com)
+[@philoserf@pkm.social](https://pkm.social/@philoserf)
 
-_The views expressed here are my own. They are not endorsed, approved, or reviewed by any other person or organization._
+_Views expressed are mine alone._
