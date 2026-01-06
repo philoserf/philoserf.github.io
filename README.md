@@ -13,6 +13,6 @@ Years in the Army taught me how clarity and discipline can carry a team through 
 
 What I carry from all of it: a sense of consequence, a habit of watching the edges, and the belief that thought only becomes real when translated into words others can use.
 
-The easiest way to reach me: mark@philoserf.com
+The easiest way to reach me: <mark@philoserf.com>
 
 The views here are my own.
