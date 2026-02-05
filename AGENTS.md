@@ -1,7 +1,5 @@
 # AGENTS.md
 
-Guidance for working in this repository.
-
 ## Overview
 
 GitHub Pages site with Jekyll/Minima theme. Publishes to <https://philoserf.github.io>.
@@ -18,7 +16,13 @@ Changes pushed to main auto-deploy via GitHub Pages.
 - **Content:** Edit `README.md`
 - **Config:** Edit `_config.yml`
 
-## Local Preview (Optional)
+## Linting
+
+```bash
+bunx prettier --write <file>
+```
+
+## Local Preview
 
 ```bash
 gem install github-pages
