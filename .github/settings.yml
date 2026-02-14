@@ -1,0 +1,6 @@
+_extends: .github
+
+repository:
+  name: philoserf.github.io
+  description: "A small page on a massive Internet"
+  homepage: https://philoserf.github.io/
