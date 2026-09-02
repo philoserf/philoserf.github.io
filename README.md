@@ -1,5 +1,3 @@
-This is where I think in public—exploring ideas as they arrive, reflecting on experience earned over years, sharing the things I had to learn the hard way, testing what might help others think better, and saying what I believe needs saying—clearly, publicly, and without hedging.
-
 We are all human beings, being human.
 
 HOMO·HOMINIS·ESSE  

@@ -1,6 +1,8 @@
 title: "Mark Ayers"
-name: "Mark"
+author: "Mark Ayers"
 email: "mark@philoserf.com"
+description: "Mark Ayers — thinking, learning, connecting, declaring. Personal site."
+lang: "en"
 theme: minima
 minima:
   skin: auto
