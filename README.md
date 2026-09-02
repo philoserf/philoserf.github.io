@@ -15,4 +15,4 @@ What I carry from all of it: a sense of consequence, a habit of watching the edg
 
 The easiest way to reach me: <mark@philoserf.com>
 
-The views here are my own.
+_The views here are my own._
