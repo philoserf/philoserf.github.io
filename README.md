@@ -1,7 +1,6 @@
 We are all human beings, being human.
 
-HOMO·HOMINIS·ESSE  
-COGITA·DISCE·NECTE·ENUNTIA
+COGITA·DISCE·NECTE·FARE
 
 I keep my rules simple: say yes and build; name things once; assume good intentions; ask for permission only when it matters; keep tools and structure as small as possible; follow defaults until they fail; keep the signal sharp.
 
