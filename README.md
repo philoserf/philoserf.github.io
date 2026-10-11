@@ -1,15 +1,15 @@
-We are all human beings, being human.
-
 COGITA·DISCE·NECTE·FARE
 
-I keep my rules simple: say yes and build; name things once; assume good intentions; ask for permission only when it matters; keep tools and structure as small as possible; follow defaults until they fail; keep the signal sharp.
+I am interested in one question more than any other: how should a curious person live?
 
-I’ve spent time in small towns, big cities, ancient ruins, busy shops, server rooms, and a few places in between. I’ve shoveled snow, served burgers, worn a uniform, led teams, survived meetings that should’ve been emails, and worked alongside people trying to make something better.
+Less what to believe than how to think: how to notice, how to connect ideas that seem unrelated, and how to build tools, habits, and language that make the world more intelligible.
 
-Years in the Army taught me how clarity and discipline can carry a team through chaos. Time in nonprofits reminded me that small groups can move mountains. Work across companies of every size revealed that good people everywhere are trying to solve hard problems with limited time.
+I write about whatever survives sustained curiosity. Sometimes that is philosophy; as often it is software, golf, history, science, language, travel, or the design of everyday things. Subjects matter less than methods. Every discipline becomes more interesting once you ask why it developed the way it did and what it reveals about being human.
 
-What I carry from all of it: a sense of consequence, a habit of watching the edges, and the belief that thought only becomes real when translated into words others can use.
+I prefer first principles to convention, clarity to cleverness, and durable ideas to fashionable ones. I keep language precise and arguments grounded in observation. Most complexity is inherited rather than necessary.
 
-The easiest way to reach me: <mark@philoserf.com>
+Life has taken me through military service, technology, nonprofit leadership, and retail, and through mountains, cities, and long walks with good books. Each taught the same lesson from a different direction: reality does not care about our stories, but it rewards careful attention.
 
-_The views here are my own._
+A thought is unfinished until I can share it. Writing is how I test whether something I think is true.
+
+The easiest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
