@@ -10,6 +10,6 @@ I prefer first principles to convention, clarity to cleverness, and durable idea
 
 Life has taken me through military service, technology, nonprofit leadership, and retail, and through mountains, cities, and long walks with good books. Each taught the same lesson from a different direction: reality does not care about our stories, but it rewards careful attention.
 
-A thought is unfinished until I can share it. Writing is how I test whether something I think is true.
+A thought is unfinished until I can share it. Writing is how I test whether something I think is true. I publish what I write at [philoserf.com](https://philoserf.com/).
 
 The easiest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
